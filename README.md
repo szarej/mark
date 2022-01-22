@@ -5,8 +5,10 @@
 2. ~~paragraf~~
     1. ~~**paragraf**~~
 3. *paragraf*
+
 >***masło*** 
 >>*ktoś kiedyś*.
+
 `def fun()`
 `print(HA!)`
 `#laugh`
