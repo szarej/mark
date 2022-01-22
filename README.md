@@ -12,3 +12,7 @@
 `def fun()
 print(HA!)
 #laugh`
+
+tekst `def fun()
+print(HA!)
+#laugh` więcej tekstu
