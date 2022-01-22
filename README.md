@@ -9,6 +9,6 @@
 >***masło*** 
 >>*ktoś kiedyś*.
 
-`def fun()`
-`print(HA!)`
-`#laugh`
+`def fun()
+print(HA!)
+#laugh`
