@@ -16,3 +16,5 @@ print(HA!)
 tekst `def fun()
 print(HA!)
 #laugh` więcej tekstu
+
+![mirror sculpture](mirror-sculpture.jpeg)
