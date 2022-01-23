@@ -21,8 +21,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     `{ my code }`
 
-    Add as many paragraphs as you like.
-
+    Add as many paragraphs as you like
 
 
 
