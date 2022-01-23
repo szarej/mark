@@ -4,7 +4,7 @@
 |.|!|?|
 
 ```json
-~~def fun():~~
-  ~~print("HA!")~~
-  ~~return 1~~
+def fun():
+  print("HA!")
+  return 1
 ```
