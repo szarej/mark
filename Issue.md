@@ -3,7 +3,7 @@
 |1|2|3|
 |.|!|?|
 ```
-def fun():
+~~def fun():
   print("HA!")
-  return 1
+  return 1~~
 ```
