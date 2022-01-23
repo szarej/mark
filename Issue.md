@@ -27,9 +27,9 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [ ] .
+- [X] ?
+- [ ] !
 
 d
 
