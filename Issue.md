@@ -1,4 +1,4 @@
-[Heading IDs](małpa)
+[Heading IDs](#1)
 
 |aaaaaaa|bbbbbbbbb|cccccccccc|
 |:---:|:---:|:---:|
@@ -76,4 +76,4 @@ dd
 d
 d
 
-[małpa](#małpa)
+[małpa](1)
