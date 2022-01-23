@@ -1,5 +1,12 @@
 # nagłówek
 
+par
+
+agr
+
+raf
+
+
 1. **paragraf**
     + **paragraf?**
 2. ~~paragraf~~
@@ -8,7 +15,6 @@
 
 >***masło*** 
 >>*ktoś kiedyś*.
-<<<<<<< HEAD
 `def fun()`
 `print(HA!)`
 `#laugh`
@@ -20,7 +26,6 @@ print(HA!)
 tekst `def fun()
 print(HA!)
 #laugh` więcej tekstu
-<<<<<<< HEAD
 
 
 ![mirror sculpture](mirror-sculpture.jpeg)
