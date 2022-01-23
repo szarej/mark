@@ -3,7 +3,7 @@
 |1|2|3|
 |.|!|?|
 
-```json
+```python
 def fun():
   print("HA!")
   return 1
