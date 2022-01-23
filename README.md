@@ -12,7 +12,6 @@
 `def fun()`
 `print(HA!)`
 `#laugh`
-=======
 
 `def fun()
 print(HA!)
@@ -21,4 +20,8 @@ print(HA!)
 tekst `def fun()
 print(HA!)
 #laugh` więcej tekstu
->>>>>>> 576a6efdbcd4ec858914df0b05ebacbc85a4145f
+<<<<<<< HEAD
+
+
+![mirror sculpture](mirror-sculpture.jpeg)
+
